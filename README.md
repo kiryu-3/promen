@@ -6,6 +6,6 @@
 資料の間違い等があればすぐに対応したいと思いますので、教えていただけると幸いです。  
 結構頻繁に更新があります。
 
-- [Python(基本文法)](https://kiryu-3.github.io/promen/python-Pro/index.html#0)  
+- [Python(基本文法)](https://kiryu-3.github.io/promen/python-ro/index.html#0)  
 - [Python(データサイエンスのライブラリ)](https://kiryu-3.github.io/prosa/dspython_Pro/index.html#0) 
-- [Python(統計)](https://kiryu-3.github.io/prosa/stats_python/index.html#0) 
+- [Python(統計)](https://kiryu-3.github.io/prosa/stats-python/index.html#0) 
