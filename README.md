@@ -7,5 +7,5 @@
 結構頻繁に更新があります。
 
 - [Python(基本文法)](https://kiryu-3.github.io/promen/python-pro/index.html#0)  
-- [Python(データサイエンスのライブラリ)](https://kiryu-3.github.io/prosa/dspython-pro/index.html#0) 
-- [Python(統計)](https://kiryu-3.github.io/prosa/stats-python/index.html#0) 
+- [Python(データサイエンスのライブラリ)](https://kiryu-3.github.io/promen/dspython-pro/index.html#0) 
+- [Python(統計)](https://kiryu-3.github.io/promen/stats-python/index.html#0) 
