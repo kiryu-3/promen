@@ -8,5 +8,5 @@
 
 - [Python（基本文法）](https://kiryu-3.github.io/promen/python-pro/index.html#0)  
 - [Python（データサイエンスのライブラリ）](https://kiryu-3.github.io/promen/dspython-pro/index.html#0) 
-- [Python（統計）](https://kiryu-3.github.io/promen/statsbasic-pro/index.html#0) 
-- [Python (『統計学基礎』)](https://kiryu-3.github.io/promen/stats-pro/index.html#0) 
+- [Python（統計）](https://kiryu-3.github.io/promen/stats-pro/index.html#0) 
+- [Python (『統計学基礎』)](https://kiryu-3.github.io/promen/statsbasic-pro/index.html#0) 
